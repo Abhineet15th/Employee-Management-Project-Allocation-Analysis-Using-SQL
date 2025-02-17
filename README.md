@@ -1,9 +1,6 @@
 # Employee-Management-Project-Allocation-Analysis-Using-SQL
 A small SQL project where I created a custom dataset and performed various queries to analyze employees and their projects. 
 
-**Project Title:** **Employee Management & Project Allocation Analysis Using SQL**  
-
-### **GitHub Repository Description:**  
 This project is a **SQL-based Employee Management & Project Allocation System**, where I have created a small dataset from scratch to showcase my SQL proficiency. Despite being a small-scale project, it demonstrates my ability to **design databases, write queries, and perform meaningful data analysis**.  
 
 #### **Project Overview:**  
